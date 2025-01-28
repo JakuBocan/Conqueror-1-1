@@ -1,0 +1,699 @@
+{
+  "Question_Choice": [
+      {
+          "id": 0,
+          "Field": "History",
+          "Question": "Kedy bola prijatá Ústava Slovenskej republiky?", 
+          "Answer": "1. septembra 1992",
+          "IncorrectAnswers": ["17. novembra 1989", "1. januára 1993", "8. mája 1945"]
+      },
+      {
+          "id": 1,
+          "Field": "History",
+          "Question": "Kto bol prvým prezidentom Slovenskej republiky?", 
+          "Answer": "Michal Kováč",
+          "IncorrectAnswers": ["Rudolf Schuster", "Andrej Kiska", "Ivan Gašparovič"]
+      },
+      {
+          "id": 2,
+          "Field": "History",
+          "Question": "Kedy sa uskutočnilo Slovenské národné povstanie (SNP)?", 
+          "Answer": "29. augusta 1944",
+          "IncorrectAnswers": ["1. septembra 1939", "5. júla 1941", "8. mája 1945"]
+      },
+      {
+          "id": 3,
+          "Field": "History",
+          "Question": "Ktorý slovenský panovník sa zaslúžil o založenie Veľkej Moravy?", 
+          "Answer": "Mojmír I.",
+          "IncorrectAnswers": ["Rastislav", "Pribina", "Svätopluk"]
+      },
+      {
+          "id": 4,
+          "Field": "History",
+          "Question": "V ktorom roku sa Slovensko stalo členom Európskej únie?", 
+          "Answer": "2004",
+          "IncorrectAnswers": ["2001", "2007", "2010"]
+      },
+      {
+          "id": 5,
+          "Field": "Culture",
+          "Question": "Ktorý slovenský spisovateľ napísal báseň 'Mor ho!'?", 
+          "Answer": "Samo Chalupka",
+          "IncorrectAnswers": ["Martin Kukučín", "Jozef Miloslav Hurban", "Pavol Országh Hviezdoslav"]
+      },
+      {
+          "id": 6,
+          "Field": "Culture",
+          "Question": "Ktoré mesto je považované za centrum slovenského divadla?", 
+          "Answer": "Bratislava",
+          "IncorrectAnswers": ["Košice", "Banská Bystrica", "Žilina"]
+      },
+      {
+          "id": 7,
+          "Field": "Culture",
+          "Question": "Ktorý slovenský film získal v roku 1966 Oscara za najlepší cudzojazyčný film?", 
+          "Answer": "Obchod na korze",
+          "IncorrectAnswers": ["Jánošík", "Perinbaba", "Slnko v sieti"]
+      },
+      {
+          "id": 8,
+          "Field": "Culture",
+          "Question": "Kto je autorom slovenského národného hymnického textu 'Nad Tatrou sa blýska'?", 
+          "Answer": "Janko Matúška",
+          "IncorrectAnswers": ["Janko Kráľ", "Ján Botto", "Jozef Miloslav Hurban"]
+      },
+      {
+          "id": 9,
+          "Field": "Culture",
+          "Question": "Ktorý slovenský festival je najstarší hudobný festival vážnej hudby na Slovensku?", 
+          "Answer": "Bratislavské hudobné slávnosti",
+          "IncorrectAnswers": ["Pohoda", "Viva Musica!", "Jazz Fest Bratislava"]
+      },
+      {
+        "id": 10,
+        "Field": "History",
+        "Question": "Kedy sa uskutočnila Mníchovská dohoda, ktorá ovplyvnila Československo?", 
+        "Answer": "1938",
+        "IncorrectAnswers": ["1918", "1945", "1939"]
+    },
+    {
+        "id": 11,
+        "Field": "Culture",
+        "Question": "Ktorá slovenská pieseň sa stala neoficiálnou hymnou SNP?", 
+        "Answer": "Na Kráľovej holi",
+        "IncorrectAnswers": ["Pieseň práce", "Hej, Slávia", "Tam okolo Levoče"]
+    },
+    {
+        "id": 12,
+        "Field": "Science",
+        "Question": "Ktoré slovenské mesto je známe výrobou energetických turbín?", 
+        "Answer": "Dubnica nad Váhom",
+        "IncorrectAnswers": ["Bratislava", "Košice", "Trenčín"]
+    },
+    {
+        "id": 13,
+        "Field": "Sport",
+        "Question": "Ktorý slovenský športovec vyhral tri zlaté olympijské medaily v kanoistike?", 
+        "Answer": "Michal Martikán",
+        "IncorrectAnswers": ["Peter Sagan", "Matej Tóth", "Zdeno Chára"]
+    },
+    {
+        "id": 14,
+        "Field": "Culture",
+        "Question": "Aké je meno známej slovenskej sopranistky, ktorá spievala v La Scale?", 
+        "Answer": "Lucia Popp",
+        "IncorrectAnswers": ["Edita Gruberová", "Gabriela Beňačková", "Eva Jenis"]
+    },
+    {
+        "id": 15,
+        "Field": "History",
+        "Question": "Kedy sa rozdelilo Česko a Slovensko na dva samostatné štáty?", 
+        "Answer": "1. januára 1993",
+        "IncorrectAnswers": ["17. novembra 1989", "1. januára 1992", "29. augusta 1994"]
+    },
+    {
+        "id": 16,
+        "Field": "Science",
+        "Question": "Kto je považovaný za otca slovenskej astronómie?", 
+        "Answer": "Maximilián Hell",
+        "IncorrectAnswers": ["Dionýz Štúr", "Jozef Murgaš", "Ľubor Filíp"]
+    },
+    {
+        "id": 18,
+        "Field": "Culture",
+        "Question": "Ktorý slovenský básnik je známy dielom 'Krížne cesty'?",
+        "Answer": "Janko Kráľ",
+        "IncorrectAnswers": ["Pavol Országh Hviezdoslav", "Andrej Sládkovič", "Ján Botto"]
+    },
+    {
+        "id": 19,
+        "Field": "History",
+        "Question": "Ktorá udalosť v roku 863 je spojená s príchodom Konštantína a Metoda na Veľkú Moravu?",
+        "Answer": "Príchod slovanských vierozvestcov",
+        "IncorrectAnswers": ["Založenie Veľkej Moravy", "Bitka na rieke Morava", "Vznik prvej slovanskej univerzity"]
+    },
+    {
+        "id": 20,
+        "Field": "Science",
+        "Question": "Aký významný objav vykonal slovenský geológ Dionýz Štúr?",
+        "Answer": "Mapovanie karpatského geologického systému",
+        "IncorrectAnswers": ["Vývoj elektrického telegrafu", "Objav polohy Venuše", "Výskum DNA"]
+    },
+    {
+        "id": 21,
+        "Field": "Sport",
+        "Question": "Ktorý slovenský lyžiar získal zlatú medailu na Zimných olympijských hrách 2022?",
+        "Answer": "Petra Vlhová",
+        "IncorrectAnswers": ["Veronika Zuzulová", "Adam Žampa", "Martin Bajčičák"]
+    },
+    {
+        "id": 22,
+        "Field": "Culture",
+        "Question": "Ktorý slovenský skladateľ je autorom opery 'Krútňava'?",
+        "Answer": "Eugen Suchoň",
+        "IncorrectAnswers": ["Ján Cikker", "Mikuláš Schneider-Trnavský", "Alexander Moyzes"]
+    },
+    {
+        "id": 23,
+        "Field": "History",
+        "Question": "Ktoré mesto bolo hlavným mestom Slovenského štátu počas druhej svetovej vojny?",
+        "Answer": "Bratislava",
+        "IncorrectAnswers": ["Banská Bystrica", "Košice", "Trnava"]
+    },
+    {
+        "id": 24,
+        "Field": "Science",
+        "Question": "Ktorý slovenský fyzik prispel k vývoju teórie polovodičov?",
+        "Answer": "Štefan Jedlík",
+        "IncorrectAnswers": ["Aurel Stodola", "Maximilián Hell", "Jozef Murgaš"]
+    },
+    {
+      "id": 25,
+      "Field": "History",
+      "Question": "Kedy sa uskutočnila Bitka pri Moháči, ktorá ovplyvnila uhorské dejiny?",
+      "Answer": "1526",
+      "IncorrectAnswers": ["1415", "1683", "1711"]
+    },
+    {
+        "id": 26,
+        "Field": "Culture",
+        "Question": "Ktorý slovenský dramatik je autorom hry 'Kubo'?",
+        "Answer": "Jozef Hollý",
+        "IncorrectAnswers": ["Martin Kukučín", "Pavol Országh Hviezdoslav", "Andrej Sládkovič"]
+    },
+    {
+        "id": 27,
+        "Field": "Science",
+        "Question": "Ktorý slovenský vynálezca sa preslávil prácou na vývoji turbín?",
+        "Answer": "Aurel Stodola",
+        "IncorrectAnswers": ["Štefan Banič", "Jozef Murgaš", "Ľudovít Štúr"]
+    },
+    {
+        "id": 28,
+        "Field": "Sport",
+        "Question": "Ktorý slovenský futbalista získal Zlatú loptu za najlepšieho hráča na MS do 20 rokov v roku 1977?",
+        "Answer": "Marián Masný",
+        "IncorrectAnswers": ["Jozef Adamec", "Anton Ondruš", "Dušan Galis"]
+    },
+    {
+        "id": 29,
+        "Field": "History",
+        "Question": "Ktorá slovenská pevnosť bola počas stredoveku centrom protitureckých bojov?",
+        "Answer": "Nové Zámky",
+        "IncorrectAnswers": ["Spišský hrad", "Trenčiansky hrad", "Devínsky hrad"]
+    },
+    {
+        "id": 30,
+        "Field": "Culture",
+        "Question": "Ktorý slovenský folklórny súbor je považovaný za národný poklad?",
+        "Answer": "SĽUK",
+        "IncorrectAnswers": ["Lúčnica", "Detva", "Partizán"]
+    },
+    {
+        "id": 31,
+        "Field": "Science",
+        "Question": "Ktorý slovenský matematik bol významným predstaviteľom teórie množín?",
+        "Answer": "Ľudovít Novák",
+        "IncorrectAnswers": ["Daniel Belluš", "Ivan Hričovský", "Juraj Hrončiar"]
+    },
+    {
+        "id": 32,
+        "Field": "Sport",
+        "Question": "Ktorý slovenský hokejista strelil víťazný gól v zápase proti Švédsku na MS 2002?",
+        "Answer": "Peter Bondra",
+        "IncorrectAnswers": ["Pavol Demitra", "Miroslav Šatan", "Zdeno Chára"]
+    },
+    {
+        "id": 33,
+        "Field": "Culture",
+        "Question": "Ktorý slovenský spisovateľ je známy dielom 'Hájnický život'?",
+        "Answer": "Martin Kukučín",
+        "IncorrectAnswers": ["Janko Jesenský", "Pavol Országh Hviezdoslav", "Jozef Gregor Tajovský"]
+    },
+    {
+        "id": 34,
+        "Field": "History",
+        "Question": "Kedy vznikla prvá Československá republika?",
+        "Answer": "1918",
+        "IncorrectAnswers": ["1939", "1925", "1945"]
+    },
+    {
+      "id": 35,
+      "Field": "History",
+      "Question": "Kto bol zakladateľom Matice slovenskej?",
+      "Answer": "Štefan Moyzes",
+      "IncorrectAnswers": ["Ján Kollár", "Ľudovít Štúr", "Michal Miloslav Hodža"]
+    },
+    {
+        "id": 36,
+        "Field": "Culture",
+        "Question": "Ktorý slovenský spevák je známy piesňou 'Voda, čo ma drží nad vodou'?",
+        "Answer": "Jožo Ráž",
+        "IncorrectAnswers": ["Miro Žbirka", "Richard Müller", "Pavol Habera"]
+    },
+    {
+        "id": 37,
+        "Field": "Science",
+        "Question": "Ktorý slovenský vynálezca je spojený s vývojom padáka?",
+        "Answer": "Štefan Banič",
+        "IncorrectAnswers": ["Aurel Stodola", "Jozef Murgaš", "Maximilián Hell"]
+    },
+    {
+        "id": 38,
+        "Field": "Sport",
+        "Question": "Ktorý slovenský cyklista je trojnásobným majstrom sveta v cestnej cyklistike?",
+        "Answer": "Peter Sagan",
+        "IncorrectAnswers": ["Matej Mohorič", "Erik Baška", "Milan Barényi"]
+    },
+    {
+        "id": 39,
+        "Field": "Culture",
+        "Question": "Ktorý slovenský spisovateľ je autorom novely 'Drak sa vracia'?",
+        "Answer": "Dobroslav Chrobák",
+        "IncorrectAnswers": ["Jozef Gregor Tajovský", "Ivan Horváth", "Pavol Országh Hviezdoslav"]
+    },
+    {
+        "id": 40,
+        "Field": "History",
+        "Question": "Kedy bola založená Univerzita Komenského v Bratislave?",
+        "Answer": "1919",
+        "IncorrectAnswers": ["1899", "1925", "1933"]
+    },
+    {
+        "id": 41,
+        "Field": "Science",
+        "Question": "Ktorý slovenský botanik sa zaoberal výskumom flóry Karpát?",
+        "Answer": "Andrej Kmeť",
+        "IncorrectAnswers": ["Dionýz Štúr", "Jozef Murgaš", "Štefan Moyzes"]
+    },
+    {
+        "id": 42,
+        "Field": "Sport",
+        "Question": "Ktorý slovenský hokejový tím vyhral KHL v roku 2009?",
+        "Answer": "HC Slovan Bratislava",
+        "IncorrectAnswers": ["HK Dukla Trenčín", "HK Košice", "HK Nitra"]
+    },
+    {
+        "id": 43,
+        "Field": "Culture",
+        "Question": "Ktorý slovenský hudobný skladateľ je známy dielom 'Slovenská suita'?",
+        "Answer": "Vítězslav Novák",
+        "IncorrectAnswers": ["Eugen Suchoň", "Alexander Moyzes", "Ján Cikker"]
+    },
+    {
+        "id": 44,
+        "Field": "History",
+        "Question": "Ktorý rok je považovaný za začiatok Veľkej Moravy?",
+        "Answer": "833",
+        "IncorrectAnswers": ["863", "907", "921"]
+    },
+    {
+        "id": 45,
+        "Field": "Science",
+        "Question": "Ktorý slovenský vedec je považovaný za priekopníka rádiotelegrafie?",
+        "Answer": "Jozef Murgaš",
+        "IncorrectAnswers": ["Aurel Stodola", "Štefan Banič", "Maximilián Hell"]
+    },
+    {
+        "id": 46,
+        "Field": "Sport",
+        "Question": "Ktorá slovenská športová legenda je známa ako 'kráľ hôr'?",
+        "Answer": "Matej Tóth",
+        "IncorrectAnswers": ["Peter Sagan", "Michal Martikán", "Veronika Velez-Zuzulová"]
+    },
+    {
+        "id": 47,
+        "Field": "Culture",
+        "Question": "Ktorý slovenský spisovateľ napísal román 'Červené víno'?",
+        "Answer": "František Hečko",
+        "IncorrectAnswers": ["Martin Kukučín", "Jozef Gregor Tajovský", "Ivan Horváth"]
+    },
+    {
+        "id": 48,
+        "Field": "History",
+        "Question": "Ktorý slovenský politik bol lídrom počas Slovenského národného povstania?",
+        "Answer": "Ján Golian",
+        "IncorrectAnswers": ["Ľudovít Štúr", "Milan Rastislav Štefánik", "Jozef Tiso"]
+    },
+    {
+        "id": 49,
+        "Field": "Culture",
+        "Question": "Ktorá slovenská operná speváčka je známa vystúpeniami v Metropolitnej opere?",
+        "Answer": "Edita Gruberová",
+        "IncorrectAnswers": ["Lucia Popp", "Gabriela Beňačková", "Eva Jenis"]
+    }
+  ],
+  "Question_Guess": [
+      {
+          "id": 0,
+          "Field": "History",
+          "Question": "V ktorom roku bol podpísaný Pittsburský dohovor, ktorý uznával právo Slovákov na samosprávu v rámci Československa?",
+          "Answer": 1918,
+          "Range": [1800, 1950]
+      },
+      {
+          "id": 1,
+          "Field": "History",
+          "Question": "Koľko rokov trvalo panovanie Veľkej Moravy ako slovanského štátu?",
+          "Answer": 70,
+          "Range": [30, 150]
+      },
+      {
+          "id": 2,
+          "Field": "Culture",
+          "Question": "V ktorom roku sa prvýkrát konal festival Pohoda, najväčší hudobný festival na Slovensku?",
+          "Answer": 1997,
+          "Range": [1900, 2020]
+      },
+      {
+          "id": 3,
+          "Field": "Culture",
+          "Question": "Koľko veršov má slovenská národná hymna 'Nad Tatrou sa blýska'?",
+          "Answer": 8,
+          "Range": [1, 20]
+      },
+      {
+          "id": 4,
+          "Field": "Sport",
+          "Question": "V ktorom roku vyhral slovenský hokejový tím svoj prvý titul majstrov sveta?",
+          "Answer": 2002,
+          "Range": [1900, 2025]
+      },
+      {
+          "id": 5,
+          "Field": "Sport",
+          "Question": "Koľko krát získal Peter Sagan titul majstra sveta v cestnej cyklistike?",
+          "Answer": 3,
+          "Range": [1, 10]
+      },
+      {
+          "id": 6,
+          "Field": "Science",
+          "Question": "V ktorom roku objavil slovenský astronóm Maximilián Hell prechod Venuše cez slnečný disk, čo viedlo k presnejšiemu meraniu vzdialenosti medzi Zemou a Slnkom?",
+          "Answer": 1769,
+          "Range": [1600, 1900]
+      },
+      {
+          "id": 7,
+          "Field": "Science",
+          "Question": "Koľko patentov celkovo počas svojho života získal slovenský vedec Aurel Stodola, ktorý je známy ako priekopník v oblasti parných turbín?",
+          "Answer": 39,
+          "Range": [10, 100]
+      },
+      {
+        "id": 8,
+        "Field": "History",
+        "Question": "V ktorom roku bola založená Matica slovenská, jedna z najstarších slovenských kultúrnych inštitúcií?",
+        "Answer": 1863,
+        "Range": [1800, 1900]
+      },
+      {
+        "id": 9,
+        "Field": "History",
+        "Question": "Koľko rokov existovala Česko-Slovenská republika od svojho vzniku v roku 1918 do jej rozdelenia?",
+        "Answer": 75,
+        "Range": [50, 100]
+      },
+      {
+        "id": 10,
+        "Field": "Culture",
+        "Question": "V ktorom roku sa konalo prvé vysielanie Slovenskej televízie?",
+        "Answer": 1956,
+        "Range": [1920, 2000]
+      },
+      {
+        "id": 11,
+        "Field": "Science",
+        "Question": "Koľko rokov po svojom vzniku pôsobí Slovenská akadémia vied, ktorá bola založená v roku 1953?",
+        "Answer": 70,
+        "Range": [50, 100]
+      },
+      {
+        "id": 12,
+        "Field": "Sport",
+        "Question": "V ktorom roku získal slovenský cyklista Peter Sagan prvý titul majstra sveta?",
+        "Answer": 2015,
+        "Range": [2000, 2025]
+      },
+      {
+        "id": 13,
+        "Field": "Sport",
+        "Question": "Koľko medailí celkovo získalo Slovensko na Zimných olympijských hrách od jeho samostatnosti?",
+        "Answer": 9,
+        "Range": [1, 20]
+      },
+      {
+        "id": 14,
+        "Field": "Science",
+        "Question": "V ktorom roku slovenský vynálezca Jozef Murgaš získal patent na bezdrôtový telegraf?",
+        "Answer": 1904,
+        "Range": [1800, 1950]
+      },
+      {
+        "id": 15,
+        "Field": "Geography",
+        "Question": "Aká je nadmorská výška Gerlachovského štítu, najvyššieho vrchu Slovenska?",
+        "Answer": 2655,
+        "Range": [2000, 3000]
+      },
+      {
+        "id": 16,
+        "Field": "Geography",
+        "Question": "V ktorom roku bol založený prvý slovenský národný park, Tatranský národný park (TANAP)?",
+        "Answer": 1949,
+        "Range": [1900, 2000]
+      },
+      {
+        "id": 17,
+        "Field": "Geography",
+        "Question": "Koľko okresov má Slovensko?",
+        "Answer": 79,
+        "Range": [50, 100]
+      },
+      {
+        "id": 18,
+        "Field": "Geography",
+        "Question": "Aká je rozloha Slovenska v štvorcových kilometroch?",
+        "Answer": 49035,
+        "Range": [40000, 60000]
+      },
+      {
+        "id": 19,
+        "Field": "Geography",
+        "Question": "Koľko krajov (administratívnych regiónov) má Slovensko?",
+        "Answer": 8,
+        "Range": [5, 10]
+      },
+      {
+        "id": 20,
+        "Field": "Geography",
+        "Question": "V ktorom roku bola Slovenská jaskyňa Domica zapísaná na zoznam svetového dedičstva UNESCO?",
+        "Answer": 1995,
+        "Range": [1900, 2025]
+      },
+      {
+        "id": 21,
+        "Field": "Geography",
+        "Question": "Aká je dĺžka rieky Váh, najdlhšej rieky na Slovensku, v kilometroch?",
+        "Answer": 403,
+        "Range": [300, 500]
+      },
+      {
+        "id": 22,
+        "Field": "History",
+        "Question": "V ktorom roku bolo podpísané Martinské deklarácie, ktorá podporila vznik Československa?",
+        "Answer": 1918,
+        "Range": [1800, 2000]
+      },
+      {
+        "id": 23,
+        "Field": "Geography",
+        "Question": "Koľko obcí je na Slovensku?",
+        "Answer": 2890,
+        "Range": [2000, 4000]
+      },
+      {
+        "id": 24,
+        "Field": "Culture",
+        "Question": "V ktorom roku bola postavená ikonická Bratislavská Nová budova Slovenského národného divadla?",
+        "Answer": 2007,
+        "Range": [1900, 2025]
+      },
+      {
+        "id": 25,
+        "Field": "Sport",
+        "Question": "V ktorom roku získalo Slovensko svoju prvú olympijskú medailu ako samostatný štát?",
+        "Answer": 1996,
+        "Range": [1900, 2025]
+      },
+      {
+        "id": 26,
+        "Field": "Science",
+        "Question": "Koľko druhov netopierov je známych na území Slovenska?",
+        "Answer": 28,
+        "Range": [10, 50]
+      },
+      {
+        "id": 27,
+        "Field": "Geography",
+        "Question": "Koľko kilometrov má hranica Slovenska s Maďarskom?",
+        "Answer": 654,
+        "Range": [500, 800]
+      },
+      {
+        "id": 28,
+        "Field": "Culture",
+        "Question": "V ktorom roku bola založená Slovenská národná galéria?",
+        "Answer": 1948,
+        "Range": [1900, 2000]
+      },
+      {
+        "id": 29,
+        "Field": "History",
+        "Question": "Koľko dní trvalo Slovenské národné povstanie (SNP)?",
+        "Answer": 60,
+        "Range": [30, 100]
+      },
+      {
+        "id": 30,
+        "Field": "Geography",
+        "Question": "Aký je priemer Slovenského krasu, jedného z najväčších krasových území v Európe, v kilometroch štvorcových?",
+        "Answer": 3465,
+        "Range": [3000, 4000]
+      },
+      {
+        "id": 31,
+        "Field": "Culture",
+        "Question": "Koľko literárnych diel napísal Pavol Országh Hviezdoslav?",
+        "Answer": 33,
+        "Range": [20, 50]
+      },
+      {
+        "id": 32,
+        "Field": "Technology",
+        "Question": "V ktorom roku bol spustený prvý slovenský satelit skCUBE?",
+        "Answer": 2017,
+        "Range": [2000, 2025]
+      },
+      {
+        "id": 33,
+        "Field": "Technology",
+        "Question": "Koľko kilometrov optickej siete prevádzkuje Slovensko pre internetové pripojenie?",
+        "Answer": 4000,
+        "Range": [3000, 5000]
+      },
+      {
+        "id": 34,
+        "Field": "Technology",
+        "Question": "Koľko slovenských IT firiem sa nachádza v rebríčku Deloitte Technology Fast 50 za rok 2022?",
+        "Answer": 6,
+        "Range": [1, 20]
+      },
+      {
+        "id": 35,
+        "Field": "Technology",
+        "Question": "Koľko patentov získali slovenskí vedci v oblasti nanotechnológie do roku 2023?",
+        "Answer": 120,
+        "Range": [50, 200]
+      },
+      {
+        "id": 36,
+        "Field": "Technology",
+        "Question": "Koľko hodín týždenne priemerne Slováci strávia hraním videohier (2023)?",
+        "Answer": 6,
+        "Range": [4, 8]
+      },
+      {
+        "id": 37,
+        "Field": "Technology",
+        "Question": "Koľko datacentier vlastní Slovensko v rámci vládnej infraštruktúry?",
+        "Answer": 3,
+        "Range": [1, 10]
+      },
+      {
+        "id": 38,
+        "Field": "Technology",
+        "Question": "V ktorom roku bol v Bratislave spustený prvý komerčný 5G internet?",
+        "Answer": 2021,
+        "Range": [2015, 2025]
+      },
+      {
+        "id": 39,
+        "Field": "Technology",
+        "Question": "Koľko hodín denne priemerne Slováci strávia používaním internetu na mobilných zariadeniach (2023)?",
+        "Answer": 3,
+        "Range": [2, 5]
+      },
+      {
+        "id": 40,
+        "Field": "Technology",
+        "Question": "Koľko rokov sa študuje informatika na Slovenskej technickej univerzite v bakalárskom programe?",
+        "Answer": 3,
+        "Range": [2, 5]
+      },
+      {
+        "id": 41,
+        "Field": "Technology",
+        "Question": "V ktorom roku sa začal vývoj prvého slovenského elektromobilu?",
+        "Answer": 2019,
+        "Range": [2010, 2025]
+      },
+      {
+        "id": 42,
+        "Field": "Technology",
+        "Question": "Koľko zamestnancov má priemerne slovenský technologický startup?",
+        "Answer": 15,
+        "Range": [5, 50]
+      },
+      {
+        "id": 43,
+        "Field": "Technology",
+        "Question": "Koľko softvérových spoločností pôsobí na Slovensku v roku 2023?",
+        "Answer": 450,
+        "Range": [300, 1000]
+      },
+      {
+        "id": 44,
+        "Field": "Technology",
+        "Question": "V ktorom roku bol Slovensko zaradené do programu digitálnych inovácií EÚ?",
+        "Answer": 2018,
+        "Range": [2010, 2025]
+      },
+      {
+        "id": 45,
+        "Field": "Technology",
+        "Question": "Koľko dronov registrovaných pre komerčné účely je na Slovensku (2023)?",
+        "Answer": 1200,
+        "Range": [500, 2000]
+      },
+      {
+        "id": 46,
+        "Field": "Technology",
+        "Question": "Koľko kilometrov má slovenský úsek optického spojenia projektu DE-CIX?",
+        "Answer": 200,
+        "Range": [100, 500]
+      },
+      {
+        "id": 47,
+        "Field": "Technology",
+        "Question": "V ktorom roku bol spustený slovenský eGovernment portál?",
+        "Answer": 2006,
+        "Range": [2000, 2015]
+      },
+      {
+        "id": 48,
+        "Field": "Technology",
+        "Question": "Koľko aplikácií vyvinutých na Slovensku je dostupných na Google Play (2023)?",
+        "Answer": 3000,
+        "Range": [1000, 5000]
+      },
+      {
+        "id": 49,
+        "Field": "Technology",
+        "Question": "Koľko slovenských univerzít má študijný program zameraný na umelú inteligenciu?",
+        "Answer": 4,
+        "Range": [1, 10]
+      }     
+  ]
+}

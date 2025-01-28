@@ -1,0 +1,44 @@
+{
+    "Regions": [
+        {
+            "id": 0,
+            "Name": "Bratislava",
+            "Neighbour": ["Trnava"]
+        },
+        {
+            "id": 1,
+            "Name": "Trnava",
+            "Neighbour": ["Bratislava", "Nitra", "Trencin"]
+        },
+        {
+            "id": 2,
+            "Name": "Trencin",
+            "Neighbour": ["Trnava", "Nitra", "Bystrica", "Zilina"]
+        },
+        {
+            "id": 3,
+            "Name": "Nitra",
+            "Neighbour": ["Trnava", "Trencin", "Bystrica"]
+        },
+        {
+            "id": 4,
+            "Name": "Zilina",
+            "Neighbour": ["Trencin", "Bystrica", "Presov"]
+        },
+        {
+            "id": 5,
+            "Name": "Bystrica",
+            "Neighbour": ["Nitra", "Trencin", "Zilina", "Presov", "Kosice"]
+        },
+        {
+            "id": 6,
+            "Name": "Presov",
+            "Neighbour": ["Zilina", "Bystrica", "Kosice"]
+        },
+        {
+            "id": 7,
+            "Name": "Kosice",
+            "Neighbour": ["Bystrica", "Presov"]
+        }
+    ]
+}
