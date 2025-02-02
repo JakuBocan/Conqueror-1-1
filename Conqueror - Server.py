@@ -29,7 +29,7 @@ Client_Answer = ''
 Reply = ''
 Start = False
 global_client = None
-Round = 1
+Round = 1 
 
 if 1 == 2:  #1 - 1st Phase #2 - 2nd Phase#
     Unowned = [region['Name'] for region in regions['Regions']]
@@ -276,7 +276,7 @@ def main():
             Guess(Guess_ID)
             Encoding('QID', QID=Guess_ID)
         else:
-            root.after(5, Quess_Setup)
+            root.after(500, Quess_Setup)
     
     def Choice_Setup():
         if global_client and not Unowned and RegionUnderAttack:
@@ -299,18 +299,23 @@ def main():
                 root.after(500, Check)
         
         global Round
-        if Round <= 2:
-            if Round %2 == 0:
-                print(Round)
-                Waiting_For_Enemy(Message='Attack')
-                Map(DrawMode=1)
+        if Claimed_Client and Claimed_Player:
+            if Round <= 6:
+                if Round %2 == 0:
+                    print(Round)
+                    Waiting_For_Enemy(Message='Attack')
+                    Map(DrawMode=1)
+                else:
+                    Encoding('TRN')
+                Check()
             else:
-                Encoding('TRN')
-            Check()
+                Encoding('END')
+                END_Screen()
         else:
+            Map()
             Encoding('END')
             END_Screen()
-                
+
     def Neighbouring_Func(Player, Action=None):
         global Unowned
         if Action is None:
@@ -643,7 +648,7 @@ def main():
             if Client_Answer and Player_Answer:
                 Check()
             else:
-                root.after(5, WaitForReply)
+                root.after(500, WaitForReply)
 
         def WaitForRegion():
             global Client_Region, Client_Next
@@ -654,7 +659,7 @@ def main():
                 Client_Next = True
                 Client_Region = None
             else:
-                root.after(1, WaitForRegion)
+                root.after(500, WaitForRegion)
 
         def Check():
             global Unowned, Player_Answer, Client_Answer

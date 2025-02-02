@@ -536,6 +536,7 @@ def Decoding(Message):
         Message = Message.removeprefix('END = ')
         List = Message.split(',')
         END_Screen(Claimed_Player=List[0].strip(), Claimed_Client=List[1].strip())
+        Map()
         
             
 
